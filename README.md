@@ -26,11 +26,5 @@
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
 <img src="https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white" />
 
-<br />
-<br />
----
-
-
-
 [linkedin]: https://linkedin.com/in/annaarsentieva
 [portfolio]: https://staminabar.app/
