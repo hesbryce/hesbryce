@@ -4,7 +4,7 @@
 
 
 ## I'm a Runner and Developer
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects here [staminabar.app]
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning Swift and Swift UI
 - 👯 I’m looking to collaborate on open source
