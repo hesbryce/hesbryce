@@ -1,6 +1,6 @@
 ### Hello World, I'm Bryce  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="[https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true](https://github.com/hesbryce/Stamina-Bar-2023/blob/main/gif.mp4)" width="500" height="320" />
 
 
 ## I'm a Runner and Developer
