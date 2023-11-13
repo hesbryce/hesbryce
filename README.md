@@ -4,13 +4,11 @@
 
 
 ## I'm a Runner and Developer
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning Swift and Swift UI
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
+- ✍ You can find my indie project here [portfolio]
+- 🔭 I’m currently working on Stamina Bar on the App Store
+- 🌱 I’m currently learning Swift, SwiftUI, HealthKit + more
 - 😄 Pronouns: He/his
-- ⚡ Fun fact: I ran a 50 mile race
+- ⚡ Fun fact: I ran a 50 mile race!
 
 
 ### Talk with me, I am kinda awesome:
