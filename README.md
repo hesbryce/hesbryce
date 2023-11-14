@@ -4,7 +4,7 @@
 
 
 ## I'm a Runner and Developer
-- ✍ You can find my indies project here [portfolio] [portfolio2]
+- ✍ You can find my indies project here [Stamina Bar] [Inner-Vue]
 - 🔭 I’m currently working on Stamina Bar on the App Store, and Inner-Vue. 
 - 🌱 I’m currently learning Swift, SwiftUI, HealthKit + all things iOS dev.
 - 😄 Pronouns: He/his
@@ -22,6 +22,6 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
 
-[portfolio]: https://staminabar.app/
-[portfolio2]: https://inner-vue.com
+[Stamina Bar]: https://staminabar.app/
+[Inner-Vue]: https://inner-vue.com
 
