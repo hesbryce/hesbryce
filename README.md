@@ -1,12 +1,13 @@
 ### Hello, I'm Bryce 👨🏿‍💻🏃🏿‍♂️
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/3owypnv1Med6YoCbcs/giphy.gif?cid=ecf05e47xqpp3lwiqyw9zr2eps8mtb5ygpnk2s44hvuvlyc1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://lh6.googleusercontent.com/L9sH_x1ZHYcsa_Peejp5AvAEk2TV1MkwqPra0n2YLeweN0PGVl3t626H-rPobHKQ7gbvOo2KL0juaAt1JGraTI_psyJ7A6lV8r68aP2-0GVtAvkN-vgPRY9CVB7dl4Slkg=w1280" />
 
 
 ## I'm a Runner and Developer
 - 🛠️ You can find my indie projects here [Stamina Bar] [Inner-Vue].
 - 🧠 I’m currently learning Swift, SwiftUI, HealthKit + all things iOS dev.
-- 🪩 Fun facts: I ran a 50 mile race with only six days notice! I trusted my data. I also enjoy playing from the heart on drums and ukulele. 
+- 🪩 Fun facts: I ran a 50 mile race with only six days notice! I trusted my data.
+- 🎵 I enjoy playing from the heart on drums and ukulele. 
 
 ### Connect with me on social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zbe/)
@@ -14,10 +15,7 @@
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/43311602)
 
 ### Languages and Tools:
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![CocoaPods](https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 [Stamina Bar]: https://staminabar.app/
 [Inner-Vue]: https://inner-vue.com
