@@ -4,9 +4,9 @@
 
 
 ## I'm a Runner and Developer
-- ✍ You can find my indie project here [portfolio]
-- 🔭 I’m currently working on Stamina Bar on the App Store
-- 🌱 I’m currently learning Swift, SwiftUI, HealthKit + more
+- ✍ You can find my indies project here [portfolio] [portfolio2]
+- 🔭 I’m currently working on Stamina Bar on the App Store, and Inner-Vue. 
+- 🌱 I’m currently learning Swift, SwiftUI, HealthKit + all things iOS dev.
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I ran a 50 mile race!
 
@@ -23,3 +23,5 @@
 
 
 [portfolio]: https://staminabar.app/
+[portfolio2]: https://inner-vue.com
+
