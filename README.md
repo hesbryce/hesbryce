@@ -6,7 +6,7 @@
 ## I'm a Runner and Developer
 - 🛠️ You can find my indies project here [Stamina Bar] [Inner-Vue].
 - 🧠 I’m currently learning Swift, SwiftUI, HealthKit + all things iOS dev.
-- ♥️ Fun fact: I ran a 50 mile race with only six days notice! I trusted my data.
+- 🪩 Fun facts: I ran a 50 mile race with only six days notice! I trusted my data. I also enjoy playing from the heart on drums and ukulele. 
 
 ### Connect with me on social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zbe/)
@@ -14,8 +14,7 @@
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/43311602)
 
 ### Languages and Tools:
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/cocoapods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
