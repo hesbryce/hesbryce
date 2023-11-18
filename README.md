@@ -4,7 +4,7 @@
 
 
 ## I'm a Runner and Developer
-- 🛠️ You can find my indie projects here [Stamina Bar] [Inner-Vue].
+- 🛠️ You can find my indie project here [Stamina Bar].
 - 🧠 I’m currently learning Swift, SwiftUI, HealthKit + all things iOS dev.
 - 🪩 Fun facts: I ran a 50 mile race with only six days notice! I trusted my data.
 - 🎵 I enjoy playing from the heart on drums and ukulele. 
