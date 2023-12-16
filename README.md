@@ -2,7 +2,7 @@
 
 # Zachary Bryce Ellis
 
-Hello, my name is Bryce! 👋🏿 I'm an iOS developer in Memphis with a B.S. in Computer Science. 📍 I've used Xcode and Swift since 2017 kicking off my career passion for mobile app development. Running marathons became my next passion, and after completing a 50 mile race, I built an Apple Watch app that transforms complex health data into an user-friendly [Stamina Bar].
+Hello, my name is Bryce! 👋🏿 I'm an iOS developer in Memphis, TN with a B.S. in Computer Science. 📍 I've used Xcode and Swift since 2017 kicking off my career passion for mobile app development. Running marathons became my next passion, and after completing a 50 mile race, I built an Apple Watch app that transforms complex health data into an user-friendly [Stamina Bar].
 
 
 
