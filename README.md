@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/hesbryce/Stamina-Bar/blob/main/stamina_bar_white_nobg.png" width="20%" />
+<img align="right" src="https://github.com/hesbryce/hesbryce/blob/main/stamina_bar_white_nobg2.png" width="20%" />
 
 # Zachary Bryce Ellis
 
