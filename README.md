@@ -2,7 +2,7 @@
 
 # Zachary Bryce Ellis
 
-Hello, my name is Bryce! 👋🏿 I'm an iOS developer based in Memphis, TN, holding a B.S. in Computer Science. 📍 Since 2017, I've been using Xcode and Swift, fueling my passion for mobile app development. My interest in running marathons, culminating in completing a 50-mile race, inspired me to create an Apple Watch app. This app simplifies complex health data into a user-friendly feature I call the [Stamina Bar].
+Hello, my name is Bryce! 👋🏿 I'm an iOS developer based in Memphis, TN, holding a B.S. in Computer Science. 📍 Since 2017, I've been using Xcode and Swift, fueling my passion for mobile app development. My interest in running marathons, culminating in completing a 50-mile race, inspired me to create an Apple Watch app. Download Stamina Bar (Pro) on the App Store. Built using SwiftUI and HealthKit [Stamina Bar].
 
 
 
