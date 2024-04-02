@@ -1,6 +1,6 @@
-<img align="right" src="https://github.com/hesbryce/hesbryce/blob/main/stamina_bar_white_nobg2.png" width="20%" />
+<img src="https://github.com/hesbryce/hesbryce/blob/main/stamina_bar_white_nobg2.png"  />
 
-# Zachary Bryce Ellis
+# Bryce Ellis
 
 Hello, my name is Bryce! 👋🏿 I'm an iOS developer with a B.S. in Computer Science. 📍 Since 2017, I've been using Xcode and Swift, fueling my passion for mobile app development. My interest in running marathons, culminating in completing a 50-mile race, inspired me to create an Apple Watch app. Download Stamina Bar (Pro) on the App Store. Built using SwiftUI and HealthKit [Stamina Bar].
 
