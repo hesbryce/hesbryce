@@ -1,4 +1,3 @@
-<img src="https://github.com/hesbryce/hesbryce/blob/main/stamina_bar_white_nobg2.png"  />
 
 # Bryce Ellis
 
